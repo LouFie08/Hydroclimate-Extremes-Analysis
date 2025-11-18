@@ -1,1 +1,4 @@
-Hi!
+Scripts
+
+1. Time Series
+2. IDW Estimation
