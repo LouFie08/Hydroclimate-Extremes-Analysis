@@ -1,4 +1,4 @@
 Scripts
 
-1. Time Series
+1. S01: Time Series
 2. IDW Estimation
